@@ -7,39 +7,39 @@
 }
 
 .normal {
-    background-color: #a6a877;
+    background-color: rgb(187, 158, 228);
 }
 
 .grass {
-    background-color: #77c850;
+    background-color: #50c8b0;
 }
 
 .fire {
-    background-color: #ee7f30;
+    background-color: #e6ae77;
 }
 
 .water {
-    background-color: #678fee;
+    background-color: #97b1ed;
 }
 
 .electric {
-    background-color: #f7cf2e;
+    background-color: rgb(247, 230, 46), 192, 112);
 }
 
 .ice {
-    background-color: #98d5d7;
+    background-color: #b4e9eb;
 }
 
 .ground {
-    background-color: #dfbf69;
+    background-color: #aa8f44bb;
 }
 
 .flying {
-    background-color: #a98ff0;
+    background-color: rgb(180, 114, 206), 172, 244);
 }
 
 .poison {
-    background-color: #a040a0;
+    background-color: #d79ed7;
 }
 
 .fighting {
